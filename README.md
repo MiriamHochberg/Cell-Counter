@@ -47,7 +47,10 @@ review built in to catch any errors.
   detection logic
 
 ## How to Run
-Requires Python 3. Make sure `cell_main.py`, `cell_detect.py`, and any required image files are 
-in the same folder, then run:
-`python3 cell_main.py`
+Requires Python 3.
 
+Install the required libraries:
+`pip3 install pillow numpy scipy`
+
+Make sure `cell_main.py` and `cell_detect.py` are in the same folder, then run:
+`python3 cell_main.py`
