@@ -22,8 +22,6 @@ automatically — then lets you click to fix any mistakes for an exact count.
 <img width="1022" height="654" alt="Screenshot 2026-06-30 at 3 57 46 PM" src="https://github.com/user-attachments/assets/031526ae-782b-4d94-9516-0a194c90cef5" />
 
 
-
-
 ## Impact
 Manual counting on dense images can take 1-3 minutes per image. This tool reduces that to 
 roughly 30-45 seconds, including time spent reviewing and correcting the automated count — an 
