@@ -14,6 +14,14 @@ automatically — then lets you click to fix any mistakes for an exact count.
 **After** — automatically detected and circled cells  
 <img width="1023" height="646" alt="Screenshot 2026-06-30 at 3 54 31 PM" src="https://github.com/user-attachments/assets/34b0ec48-7b3c-462b-ad50-f7afb5aae3d0" />
 
+**Before** — raw microscope image  
+<img width="1280" height="720" alt="Slide40" src="https://github.com/user-attachments/assets/2add1f9c-67f8-4df0-9c37-949d194671b9" />
+
+
+**After** — automatically detected and circled cells  
+<img width="1022" height="654" alt="Screenshot 2026-06-30 at 3 57 46 PM" src="https://github.com/user-attachments/assets/031526ae-782b-4d94-9516-0a194c90cef5" />
+
+
 
 
 ## Impact
